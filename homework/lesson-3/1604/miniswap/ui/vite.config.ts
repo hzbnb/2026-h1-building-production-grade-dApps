@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     host: true,
     allowedHosts: [
-      '1598038-proxy-5173.dsw-gateway-cn-hangzhou.data.aliyun.com',
+      '1601112-proxy-5173.dsw-gateway-cn-hangzhou.data.aliyun.com',
       'dsw-gateway-cn-hangzhou.data.aliyun.com'
     ],
   }

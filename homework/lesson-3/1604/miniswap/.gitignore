@@ -3,6 +3,7 @@
 /artifacts
 /typechain-types
 /bin
+/uniswap
 
 # dependencies
 /node_modules
